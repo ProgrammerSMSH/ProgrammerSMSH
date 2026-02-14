@@ -12,7 +12,6 @@
 <br />
 
 <!-- Social Badge Row -->
-[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=007BFF)](https://github.com/ProgrammerSMSH)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](https://www.linkedin.com/in/smshme/)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat_Now-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0f172a)](https://t.me/ShakibHossainBot)
 [![Website](https://img.shields.io/badge/Website-Visit_Portfolio-darkred?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0f172a&color=e34f26)](https://shakib.me/)
