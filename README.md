@@ -64,17 +64,11 @@
 
 <br />
 
-| <img src="https://img.shields.io/badge/SYSTEMS_&_BACKEND-0f172a?style=for-the-badge&logo=server&logoColor=white" width="200" /> | <img src="https://img.shields.io/badge/LOGIC_&_DATA-0f172a?style=for-the-badge&logo=database&logoColor=white" width="200" /> |
-| :---: | :---: |
-| ![Backend](https://img.shields.io/badge/Backend_Dev-95%25-007BFF?style=flat-square&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL_Design-90%25-007BFF?style=flat-square&logo=mysql&logoColor=white) |
-| ![Realtime](https://img.shields.io/badge/Realtime_Apps-85%25-007BFF?style=flat-square&logo=socket.io&logoColor=white) | ![Security](https://img.shields.io/badge/Data_Security-88%25-007BFF?style=flat-square&logo=securityscorecard&logoColor=white) |
-| ![Automation](https://img.shields.io/badge/Automation-82%25-007BFF?style=flat-square&logo=robotframework&logoColor=white) | ![Processing](https://img.shields.io/badge/Process_Logic-90%25-007BFF?style=flat-square&logo=moleculer&logoColor=white) |
-
-| <img src="https://img.shields.io/badge/SERVERS_&_DEVOPS-0f172a?style=for-the-badge&logo=ubuntu&logoColor=white" width="200" /> | <img src="https://img.shields.io/badge/INTEGRATIONS-0f172a?style=for-the-badge&logo=blueprint&logoColor=white" width="200" /> |
-| :---: | :---: |
-| ![Linux](https://img.shields.io/badge/Linux_VPS-92%25-007BFF?style=flat-square&logo=linux&logoColor=white) | ![REST](https://img.shields.io/badge/REST_APIs-90%25-007BFF?style=flat-square&logo=postman&logoColor=white) |
-| ![Deployment](https://img.shields.io/badge/Deployment-90%25-007BFF?style=flat-square&logo=docker&logoColor=white) | ![WhatsApp](https://img.shields.io/badge/WhatsApp_API-87%25-007BFF?style=flat-square&logo=whatsapp&logoColor=white) |
-| ![Web Servers](https://img.shields.io/badge/Web_Servers-85%25-007BFF?style=flat-square&logo=nginx&logoColor=white) | ![Admin](https://img.shields.io/badge/Admin_Panels-82%25-007BFF?style=flat-square&logo=adminer&logoColor=white) |
+| <img src="https://img.shields.io/badge/SYSTEMS_&_BACKEND-0f172a?style=for-the-badge&logo=server&logoColor=white" width="200" /> | <img src="https://img.shields.io/badge/LOGIC_&_DATA-0f172a?style=for-the-badge&logo=database&logoColor=white" width="200" /> | <img src="https://img.shields.io/badge/SERVERS_&_DEVOPS-0f172a?style=for-the-badge&logo=ubuntu&logoColor=white" width="200" /> | <img src="https://img.shields.io/badge/INTEGRATIONS-0f172a?style=for-the-badge&logo=blueprint&logoColor=white" width="200" /> |
+| :---: | :---: | :---: | :---: |
+| ![Backend](https://img.shields.io/badge/Backend_Dev-95%25-007BFF?style=flat-square&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL_Design-90%25-007BFF?style=flat-square&logo=mysql&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux_VPS-92%25-007BFF?style=flat-square&logo=linux&logoColor=white) | ![REST](https://img.shields.io/badge/REST_APIs-90%25-007BFF?style=flat-square&logo=postman&logoColor=white) |
+| ![Realtime](https://img.shields.io/badge/Realtime_Apps-85%25-007BFF?style=flat-square&logo=socket.io&logoColor=white) | ![Security](https://img.shields.io/badge/Data_Security-88%25-007BFF?style=flat-square&logo=securityscorecard&logoColor=white) | ![Deployment](https://img.shields.io/badge/Deployment-90%25-007BFF?style=flat-square&logo=docker&logoColor=white) | ![WhatsApp](https://img.shields.io/badge/WhatsApp_API-87%25-007BFF?style=flat-square&logo=whatsapp&logoColor=white) |
+| ![Automation](https://img.shields.io/badge/Automation-82%25-007BFF?style=flat-square&logo=robotframework&logoColor=white) | ![Processing](https://img.shields.io/badge/Process_Logic-90%25-007BFF?style=flat-square&logo=moleculer&logoColor=white) | ![Web Servers](https://img.shields.io/badge/Web_Servers-85%25-007BFF?style=flat-square&logo=nginx&logoColor=white) | ![Admin](https://img.shields.io/badge/Admin_Panels-82%25-007BFF?style=flat-square&logo=adminer&logoColor=white) |
 
 </div>
 
